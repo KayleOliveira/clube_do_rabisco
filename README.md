@@ -4,4 +4,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-. Aplicativo criado com o objetivo de compartilhar desenhos e artes digitais entre os mebros usuários.
+. Aplicativo criado com o objetivo de compartilhar desenhos e artes digitais entre os membros usuários.
